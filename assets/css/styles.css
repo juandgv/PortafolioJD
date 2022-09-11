@@ -251,14 +251,14 @@ img{
 }
 
 .home__img{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 150px;
 }
 
 .home__handle{
     justify-self: center;
-    width: 200px;
-    height: 253px;
+    width: 100px;
+    height: 200px;
  
 }
 
@@ -795,7 +795,8 @@ body.light-theme{
         height: 400px;
     }
     .home__img{
-        width: 220px;
+        width: 200px;
+        height: 250px;
     }
     .home__social-link{
         padding: .4rem;
